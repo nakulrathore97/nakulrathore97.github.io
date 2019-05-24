@@ -32,5 +32,5 @@ fetch('https://jsonplaceholder.typicode.com/users')
         img.width="300";
         img.height="150";
         append(ul,img);
-        window.location.href="offline.html";
+        //window.location.href="offline.html";
     })
