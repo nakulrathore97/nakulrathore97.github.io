@@ -50,5 +50,27 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "images/download.png",
     "revision": "bc576db2984f865eea5c32e6dc2ef233"
+  },
+  {
+    "url": "offline.html",
+    "revision": "85d95f8af2aff464841583b476a6daf8"
+  },
+  {
+    "url": "images/MRA-FAQ.png",
+    "revision": "74c7a681bdac18ad82273153dff2777f"
+  },
+  {
+    "url": "faq.html",
+    "revision": "428ffb1ceea88dabc47dcc3c9563fc5a"
+  },
+  {
+    "url": "images/about-us.jpeg",
+    "revision": "19d56d948fb72a4fe6ce1d7fb6f0adfe"
+  },
+  {
+    "url": "about.html",
+    "revision": "1998e4de1a07d28290d1e11b075d23dd"
   }
+
+
 ]);
