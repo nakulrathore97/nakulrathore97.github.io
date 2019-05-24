@@ -1,1 +1,1 @@
-the version this first occurs has a wokring task 7
+Might need to clear old cache files from previous version of the pwa
