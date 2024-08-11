@@ -30,16 +30,20 @@
       "startDate": "2022-07-31",
       "endDate": "2024-06-01 ",
       "summary": "Worked in CVIT under Prof. Avinash Sharma",
-      "highlights": ["Computer Vision"]
+      "highlights": [
+        "Computer Vision"
+      ]
     },
     {
       "name": "ZS Associates",
-      "position": "Machine Learning Engineer",
+      "position": "Decision Analytics Associate",
       "url": "",
       "startDate": "2020-08-01",
       "endDate": "2022-06-01 ",
       "summary": "Worked in CCM group",
-      "highlights": ["ML"]
+      "highlights": [
+        "ML"
+      ]
     },
     {
       "name": "Samsung",
@@ -48,7 +52,9 @@
       "startDate": "2020-01-01",
       "endDate": "2020-07-01 ",
       "summary": "Worked in MSVP team",
-      "highlights": ["ELK"]
+      "highlights": [
+        "ELK"
+      ]
     },
     {
       "name": "Error Technologies",
@@ -57,7 +63,9 @@
       "startDate": "2019-05-01",
       "endDate": "2019-07-01 ",
       "summary": "Worked in MSVP team",
-      "highlights": ["ELK"]
+      "highlights": [
+        "ELK"
+      ]
     }
   ],
   // "volunteer": [
@@ -82,7 +90,9 @@
       "startDate": "2024-08-01",
       "endDate": "",
       "score": "",
-      "courses": [""]
+      "courses": [
+        ""
+      ]
     },
     {
       "institution": "Manipal Institute of Technology",
@@ -93,7 +103,9 @@
       "startDate": "2016-07-01",
       "endDate": "2020-09-01",
       "score": "",
-      "courses": [""]
+      "courses": [
+        ""
+      ]
     }
   ],
   // "awards": [
